@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("The MULTIVERSE OF CHATBOTS")
+st.title("The Memory Vault (Stateful Chatbot)")
 
 personality = st.sidebar.selectbox("Who do you want to talk to",[
         "Thalapathy vijay","Actor suriya","Shah rukh khan","mahesh babu","Rajinikanth"
